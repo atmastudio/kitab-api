@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 149,
-  "updatedAt": "2025-11-25 18:36:05",
+  "total": 150,
+  "updatedAt": "2025-11-25 18:42:13",
   "data": [
     {
       "id": 1,
@@ -896,6 +896,12 @@
       "nama": "Syarah Arbain Nawawi Syaikh Utsaimin",
       "nama_ar": "",
       "link": "https://archive.org/download/vdrka/vdrka.pdf"
+    },
+    {
+      "id": 150,
+      "nama": "Iqtido’ Sirotol Mustaqim",
+      "nama_ar": "",
+      "link": "https://archive.org/download/esmmagesmmag/esmmag.pdf"
     }
   ]
 }
