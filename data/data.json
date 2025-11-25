@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 109,
-  "updatedAt": "2025-11-25 14:42:29",
+  "total": 110,
+  "updatedAt": "2025-11-25 14:42:52",
   "data": [
     {
       "id": 1,
@@ -656,6 +656,12 @@
       "nama": "Syuabul Iman Al Baihaqy 9",
       "nama_ar": "",
       "link": "https://storage.googleapis.com/kitab-laduni-id/Kitab%20Al-Jami%E2%80%99Li%20Syu%E2%80%99abil%20Iman%20Jilid%209%20Karya%20Imam%20Baihaqi.pdf"
+    },
+    {
+      "id": 110,
+      "nama": "Syuabul Iman Al Baihaqy 10",
+      "nama_ar": "",
+      "link": "https://storage.googleapis.com/kitab-laduni-id/Kitab%20Al-Jami%E2%80%99Li%20Syu%E2%80%99abil%20Iman%20Jilid%2010%20Karya%20Imam%20Baihaqi.pdf"
     }
   ]
 }
