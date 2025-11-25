@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 130,
-  "updatedAt": "2025-11-25 18:12:04",
+  "total": 131,
+  "updatedAt": "2025-11-25 18:14:26",
   "data": [
     {
       "id": 1,
@@ -782,6 +782,12 @@
       "nama": "‘Isyrotun Nisa’ Imam An Nasaa'i",
       "nama_ar": "",
       "link": "https://archive.org/download/arsipkitab/082%20-isyrotun%20nisa.pdf"
+    },
+    {
+      "id": 131,
+      "nama": "Tadzkiroh Ibnu Jauzi",
+      "nama_ar": "",
+      "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/tadzkiroh-ibnu-jauzi.pdf"
     }
   ]
 }
