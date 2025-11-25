@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 22,
-  "updatedAt": "2025-11-25 13:55:53",
+  "total": 23,
+  "updatedAt": "2025-11-25 13:56:15",
   "data": [
     {
       "id": 1,
@@ -134,6 +134,12 @@
       "nama": "Khud Akidatak minal Quran was Sunnah As Shahih",
       "nama_ar": "",
       "link": "https://drive.google.com/file/d/1Jq6_ZVanAD8AMrWZZZOK4l6dkw8E3LU-/view"
+    },
+    {
+      "id": 23,
+      "nama": "Qoulu Sadid Syarah Kitabu Tauhid",
+      "nama_ar": "",
+      "link": "https://drive.google.com/file/d/1GEix02wD5fhH2rlwPdDQtqDMDFKzhtqV/view"
     }
   ]
 }
