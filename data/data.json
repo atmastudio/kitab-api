@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 147,
-  "updatedAt": "2025-11-25 18:30:19",
+  "total": 148,
+  "updatedAt": "2025-11-25 18:30:49",
   "data": [
     {
       "id": 1,
@@ -884,6 +884,12 @@
       "nama": "Akidah Syaikh Muhammad bin Abdul Wahab",
       "nama_ar": "",
       "link": "https://drive.google.com/file/d/163nDK4oSqQAPgVa7cGFpofschyS9JGIR/view"
+    },
+    {
+      "id": 148,
+      "nama": "Syarah Usul Iman Syaikh Utsaimin",
+      "nama_ar": "",
+      "link": "https://jogjamuslim.com/wp-content/uploads/2019/09/syarah-usul-iman-utsaimin.pdf"
     }
   ]
 }
