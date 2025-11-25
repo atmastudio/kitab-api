@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 3,
-  "updatedAt": "2025-11-25 13:40:00",
+  "total": 4,
+  "updatedAt": "2025-11-25 13:41:03",
   "data": [
     {
       "id": 1,
@@ -20,6 +20,12 @@
       "nama": "Syarah Usulu Tsalatsah Syaikh Fauzan",
       "nama_ar": "اَلْأُصُوْلُ الثَّلاَثَةُ",
       "link": "https://drive.google.com/file/d/15FKJvrhMDBS2NIkAne61sPQZxJrOE6j0/view?usp=drive_link"
+    },
+    {
+      "id": 4,
+      "nama": "Irsyadul Anam Ila Usulin wa Muhimatin Dinil Islam",
+      "nama_ar": "إِرْشَادُ الْأَنَامِ إِلَى أُصُولٍ وَمُهِمَّاتِ دِينِ الْإِسْلَامِ",
+      "link": "https://drive.google.com/file/d/1Egi5y1oOVq7xvyAMT3nEhXg_Zmf5GMPb/view?usp=drive_link"
     }
   ]
 }
