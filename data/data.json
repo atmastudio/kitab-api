@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 133,
-  "updatedAt": "2025-11-25 18:16:54",
+  "total": 134,
+  "updatedAt": "2025-11-25 18:18:10",
   "data": [
     {
       "id": 1,
@@ -800,6 +800,12 @@
       "nama": "Mustolah Hadits",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/mustolah-hadits-utsaimin.pdf"
+    },
+    {
+      "id": 134,
+      "nama": "Tahrim Halqi Liha",
+      "nama_ar": "",
+      "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/tahrim-halq-alhi.pdf"
     }
   ]
 }
