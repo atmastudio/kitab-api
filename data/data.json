@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 146,
-  "updatedAt": "2025-11-25 18:29:52",
+  "total": 147,
+  "updatedAt": "2025-11-25 18:30:19",
   "data": [
     {
       "id": 1,
@@ -878,6 +878,12 @@
       "nama": "Mukadimah Usulu Tafsir ibnu Taimiyah",
       "nama_ar": "",
       "link": "https://archive.org/download/waq19361/19361.pdf"
+    },
+    {
+      "id": 147,
+      "nama": "Akidah Syaikh Muhammad bin Abdul Wahab",
+      "nama_ar": "",
+      "link": "https://drive.google.com/file/d/163nDK4oSqQAPgVa7cGFpofschyS9JGIR/view"
     }
   ]
 }
