@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 57,
-  "updatedAt": "2025-11-25 14:15:09",
+  "total": 58,
+  "updatedAt": "2025-11-25 14:16:59",
   "data": [
     {
       "id": 1,
@@ -344,6 +344,12 @@
       "nama": "Al Fawaid Ibnul Qoyyim",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/al-fawaid-ibnul-qoyyim.pdf"
+    },
+    {
+      "id": 58,
+      "nama": "Asy Syariah Imam Al Ajury",
+      "nama_ar": "",
+      "link": "https://archive.org/download/arsipkitab/013%20-asysyariah%20imam%20ajurry.pdf"
     }
   ]
 }
