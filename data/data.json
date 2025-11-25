@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 151,
-  "updatedAt": "2025-11-25 18:44:47",
+  "total": 152,
+  "updatedAt": "2025-11-25 18:49:25",
   "data": [
     {
       "id": 1,
@@ -908,6 +908,12 @@
       "nama": "Ushulul Iman",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/usul-iman-abdul-wahhab.pdf"
+    },
+    {
+      "id": 152,
+      "nama": "Jami Lil ‘Ibadatillah Wahdah",
+      "nama_ar": "",
+      "link": "https://drive.google.com/file/d/1ngx9Dh9I8cOzUZGhlnDLtHIrZYjP6nvS"
     }
   ]
 }
