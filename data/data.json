@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 44,
-  "updatedAt": "2025-11-25 14:08:04",
+  "total": 45,
+  "updatedAt": "2025-11-25 14:08:25",
   "data": [
     {
       "id": 1,
@@ -266,6 +266,12 @@
       "nama": "Alamus Sunnah Al Mansuroh",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/alamu-sunnah-al-mansuroh.pdf"
+    },
+    {
+      "id": 45,
+      "nama": "Tibbun Nabawi Ibnul Qoyyim",
+      "nama_ar": "",
+      "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/tibun-nabawi-ibnul-qoyyim.pdf"
     }
   ]
 }
