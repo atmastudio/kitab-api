@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 71,
-  "updatedAt": "2025-11-25 14:28:08",
+  "total": 72,
+  "updatedAt": "2025-11-25 14:28:31",
   "data": [
     {
       "id": 1,
@@ -428,6 +428,12 @@
       "nama": "Mustadrak ala Shahihain 6",
       "nama_ar": "",
       "link": "https://archive.org/download/moustadrak-risala/mstdrsala_6.pdf"
+    },
+    {
+      "id": 72,
+      "nama": "Mustadrak ala Shahihain 7",
+      "nama_ar": "",
+      "link": "https://archive.org/download/moustadrak-risala/mstdrsala_7.pdf"
     }
   ]
 }
