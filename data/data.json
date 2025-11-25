@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 161,
-  "updatedAt": "2025-11-25 18:56:14",
+  "total": 162,
+  "updatedAt": "2025-11-25 18:56:36",
   "data": [
     {
       "id": 1,
@@ -968,6 +968,12 @@
       "nama": "Mulakhos Kitab Tauhid",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/kitab-tauhid-mulahkos-syaikh-fauzan.pdf"
+    },
+    {
+      "id": 162,
+      "nama": "Al Muwatho Imam Malik",
+      "nama_ar": "",
+      "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/pdf-muwatha-imam-malik.pdf"
     }
   ]
 }
