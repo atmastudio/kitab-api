@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 181,
-  "updatedAt": "2025-11-25 19:25:01",
+  "total": 182,
+  "updatedAt": "2025-11-25 19:25:38",
   "data": [
     {
       "id": 1,
@@ -1088,6 +1088,12 @@
       "nama": "Bulughul Maram Ibnu Hajar Al Asqolani",
       "nama_ar": "",
       "link": "https://archive.org/download/145220_201910/145220.pdf"
+    },
+    {
+      "id": 182,
+      "nama": "Nahwu Durrotul Bahiyyah 2",
+      "nama_ar": "",
+      "link": "https://drive.google.com/file/d/1uVD5O2-4iYykPU3s6v74QZeLUNDwDg8j/view"
     }
   ]
 }
