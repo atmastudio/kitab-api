@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 9,
-  "updatedAt": "2025-11-25 13:46:39",
+  "total": 10,
+  "updatedAt": "2025-11-25 13:47:27",
   "data": [
     {
       "id": 1,
@@ -56,6 +56,12 @@
       "nama": "Kitabul Ilmi Syaikh Utsaimin",
       "nama_ar": "كِتَابُ العِلْمِ",
       "link": "https://drive.google.com/file/d/1idpJl9SHvH2HMcQQfn7-UqzvOtuL0gLH/view?usp=drive_link"
+    },
+    {
+      "id": 10,
+      "nama": "Majaalis Syahri Ramadhan Utsaimin",
+      "nama_ar": "مَجَالِيسُ شَهْرِ رَمَضَانَ",
+      "link": "https://drive.google.com/file/d/1SW1Dzn9GHKwXoKxy0wEEzGQx6_jhnq2n/view?usp=drivesdk"
     }
   ]
 }
