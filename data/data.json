@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 136,
-  "updatedAt": "2025-11-25 18:21:00",
+  "total": 137,
+  "updatedAt": "2025-11-25 18:21:28",
   "data": [
     {
       "id": 1,
@@ -818,6 +818,12 @@
       "nama": "Badzlul Ma’un Fi Fadhlith Tha’un",
       "nama_ar": "",
       "link": "https://archive.org/download/badlul-maun-fii-fadlil-toun-ibnu-hajar/badlul-maun-fii-fadlil-toun-ibnu-hajar.pdf"
+    },
+    {
+      "id": 137,
+      "nama": "Tafsir Ayat Kursi",
+      "nama_ar": "",
+      "link": "https://jogjamuslim.com/wp-content/uploads/2020/02/tafsir-ayat-kursi-syaikh-utsaimin.pdf"
     }
   ]
 }
