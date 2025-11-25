@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 152,
-  "updatedAt": "2025-11-25 18:49:25",
+  "total": 153,
+  "updatedAt": "2025-11-25 18:50:00",
   "data": [
     {
       "id": 1,
@@ -914,6 +914,12 @@
       "nama": "Jami Lil ‘Ibadatillah Wahdah",
       "nama_ar": "",
       "link": "https://drive.google.com/file/d/1ngx9Dh9I8cOzUZGhlnDLtHIrZYjP6nvS"
+    },
+    {
+      "id": 153,
+      "nama": "Lathoiful Maarif Karya Ibnu Rajab Al Hambali",
+      "nama_ar": "",
+      "link": "https://jogjamuslim.com/wp-content/uploads/download-kitab-pdf/lathoiful-maarif.pdf"
     }
   ]
 }
