@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 38,
-  "updatedAt": "2025-11-25 14:04:59",
+  "total": 39,
+  "updatedAt": "2025-11-25 14:05:24",
   "data": [
     {
       "id": 1,
@@ -230,6 +230,12 @@
       "nama": "Aunul Bari Bayan Ma Tadhomanah Syarhu Sunnah",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/aunul-bari-syarah-syarhus-sunnah-syaikh-rabi.pdf"
+    },
+    {
+      "id": 39,
+      "nama": "Wasooyaa Ramadhaniyyah",
+      "nama_ar": "",
+      "link": "https://jogjamuslim.com/wp-content/uploads/2022/03/wasoya-ramdhan-bin-baz.pdf"
     }
   ]
 }
