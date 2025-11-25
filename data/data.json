@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 143,
-  "updatedAt": "2025-11-25 18:26:00",
+  "total": 144,
+  "updatedAt": "2025-11-25 18:26:36",
   "data": [
     {
       "id": 1,
@@ -860,6 +860,12 @@
       "nama": "Qoulu Mufid Syarah Kitabu Tauhid 3",
       "nama_ar": "",
       "link": "https://archive.org/download/raj3elsada-qmkt1/qmkt3.pdf"
+    },
+    {
+      "id": 144,
+      "nama": "Matan Syarhus Sunnah Imam Al Barbahari",
+      "nama_ar": "",
+      "link": "https://jogjamuslim.com/wp-content/uploads/2019/11/matan-syarhus-sunnah-imam-al-barbahari.pdf"
     }
   ]
 }
