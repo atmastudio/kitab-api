@@ -1,25 +1,6 @@
 {
   "status": 200,
-  "total": 3,
+  "total": 0,
   "updatedAt": "2025-11-25 08:10:10",
-  "data": [
-    {
-      "id": 1,
-      "nama": "Riyadhus Shalihin 1",
-      "nama_ar": "",
-      "link": "https://dn710705.ca.archive.org/0/items/JilidISyarhRiyadhishShalihinAlUtsaimin/Jilid%20I%20-%20Syarh%20Riyadhish%20Shalihin%20-%20Al-Utsaimin.pdf"
-    },
-    {
-      "id": 2,
-      "nama": "Riyadhus Shalihin 2",
-      "nama_ar": "",
-      "link": "https://drive.google.com/file/d/1D70WJ66brL0V4MSaVN0a2yXpjuc1ixC1/view"
-    },
-    {
-      "id": 3,
-      "nama": "Tarbiyatul Aulad",
-      "nama_ar": "تربية الأولاد في ضوء الكتاب والسنة",
-      "link": "https://archive.org/download/nukartiket_gmail/%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D8%A7%D8%AF%20%D9%81%D9%8A%20%D8%B6%D9%88%D8%A1%20%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%20%D9%88%D8%A7%D9%84%D8%B3%D9%86%D8%A9.pdf"
-    }
-  ]
+  "data": []
 }
