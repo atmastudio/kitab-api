@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 43,
-  "updatedAt": "2025-11-25 14:07:42",
+  "total": 44,
+  "updatedAt": "2025-11-25 14:08:04",
   "data": [
     {
       "id": 1,
@@ -260,6 +260,12 @@
       "nama": "Tuhfah Saniyah",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/tuhfah-saniyah-syarh-muqodimah-jurumiyah.pdf"
+    },
+    {
+      "id": 44,
+      "nama": "Alamus Sunnah Al Mansuroh",
+      "nama_ar": "",
+      "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/alamu-sunnah-al-mansuroh.pdf"
     }
   ]
 }
