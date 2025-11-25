@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 153,
-  "updatedAt": "2025-11-25 18:50:00",
+  "total": 154,
+  "updatedAt": "2025-11-25 18:51:06",
   "data": [
     {
       "id": 1,
@@ -920,6 +920,12 @@
       "nama": "Lathoiful Maarif Karya Ibnu Rajab Al Hambali",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/uploads/download-kitab-pdf/lathoiful-maarif.pdf"
+    },
+    {
+      "id": 154,
+      "nama": "Al Adzkar Imam Nawawi",
+      "nama_ar": "",
+      "link": "https://archive.org/download/adzkarnawawi/adzkar.pdf"
     }
   ]
 }
