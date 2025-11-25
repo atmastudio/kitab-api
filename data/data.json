@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 8,
-  "updatedAt": "2025-11-25 13:44:42",
+  "total": 9,
+  "updatedAt": "2025-11-25 13:46:39",
   "data": [
     {
       "id": 1,
@@ -50,6 +50,12 @@
       "nama": "Showarif Anil Haq Anil Haq",
       "nama_ar": "",
       "link": "https://drive.google.com/file/d/1mX7Pxz421eqj7M0CIn1vTqvSJGoPyI88/view?usp=drivesdk"
+    },
+    {
+      "id": 9,
+      "nama": "Kitabul Ilmi Syaikh Utsaimin",
+      "nama_ar": "كِتَابُ العِلْمِ",
+      "link": "https://drive.google.com/file/d/1idpJl9SHvH2HMcQQfn7-UqzvOtuL0gLH/view?usp=drive_link"
     }
   ]
 }
