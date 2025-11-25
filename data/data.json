@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 100,
-  "updatedAt": "2025-11-25 14:38:17",
+  "total": 101,
+  "updatedAt": "2025-11-25 14:40:43",
   "data": [
     {
       "id": 1,
@@ -602,6 +602,12 @@
       "nama": "Siyar Alam Nubala 26",
       "nama_ar": "",
       "link": "https://archive.org/download/DAH1985ARAR/%D8%B3%D9%8A%D8%B1%20%D8%A3%D8%B9%D9%84%D8%A7%D9%85%20%D8%A7%D9%84%D9%86%D8%A8%D9%84%D8%A7%D8%A1%20%2825%29.pdf"
+    },
+    {
+      "id": 101,
+      "nama": "Syuabul Iman Al Baihaqy 1",
+      "nama_ar": "",
+      "link": "https://storage.googleapis.com/kitab-laduni-id/Kitab%20Al-Jami%E2%80%99Li%20Syu%E2%80%99abil%20Iman%20%20Jilid%201%20Karya%20imam%20Baihaqi.pdf"
     }
   ]
 }
