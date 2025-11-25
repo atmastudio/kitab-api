@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 174,
-  "updatedAt": "2025-11-25 19:19:26",
+  "total": 175,
+  "updatedAt": "2025-11-25 19:20:33",
   "data": [
     {
       "id": 1,
@@ -1046,6 +1046,12 @@
       "nama": "Maa Hiya Salafiyyah Syaikh Bukhori",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/maa-hiya-salafiyyah-syaikh-bukhori.pdf"
+    },
+    {
+      "id": 175,
+      "nama": "Syarah Riyadhus Sholihin Syaikh Utsaimin 1",
+      "nama_ar": "",
+      "link": "https://drive.google.com/file/d/1EZkuxbRV8Prw2BB-pMs5k0HdDU2FkXEj/view"
     }
   ]
 }
