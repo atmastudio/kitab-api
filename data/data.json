@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 34,
-  "updatedAt": "2025-11-25 14:03:03",
+  "total": 35,
+  "updatedAt": "2025-11-25 14:03:29",
   "data": [
     {
       "id": 1,
@@ -206,6 +206,12 @@
       "nama": "Targhib wa Tarhib Imam Mundzir",
       "nama_ar": "",
       "link": "https://drive.google.com/file/d/158dlscrmjtE7hHt6jpG3jvrxizg3Znpb/view"
+    },
+    {
+      "id": 35,
+      "nama": "Al Mumti Syarah Jurumiyyah",
+      "nama_ar": "",
+      "link": "https://drive.google.com/file/d/1AtKszoLYS54HTd0V_6SIB0uY8GVfKcuR/view"
     }
   ]
 }
