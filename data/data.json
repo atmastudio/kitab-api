@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 58,
-  "updatedAt": "2025-11-25 14:16:59",
+  "total": 59,
+  "updatedAt": "2025-11-25 14:18:20",
   "data": [
     {
       "id": 1,
@@ -350,6 +350,12 @@
       "nama": "Asy Syariah Imam Al Ajury",
       "nama_ar": "",
       "link": "https://archive.org/download/arsipkitab/013%20-asysyariah%20imam%20ajurry.pdf"
+    },
+    {
+      "id": 59,
+      "nama": "Zaadul Ma’ad Ibnul Qoyyim jilid 1",
+      "nama_ar": "",
+      "link": "https://archive.org/download/etaoin/Zadul%20Maad%201.pdf"
     }
   ]
 }
