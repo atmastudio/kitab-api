@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 47,
-  "updatedAt": "2025-11-25 14:11:02",
+  "total": 48,
+  "updatedAt": "2025-11-25 14:11:22",
   "data": [
     {
       "id": 1,
@@ -284,6 +284,12 @@
       "nama": "Raudhatul Muhibbin",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/raudhotul-muhibbin-ibnul-qoyyim.pdf"
+    },
+    {
+      "id": 48,
+      "nama": "Raudhotul Uqola",
+      "nama_ar": "",
+      "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/raudhatul-uqola-ibnu-hiban.pdf"
     }
   ]
 }
