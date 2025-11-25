@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 137,
-  "updatedAt": "2025-11-25 18:21:28",
+  "total": 138,
+  "updatedAt": "2025-11-25 18:22:36",
   "data": [
     {
       "id": 1,
@@ -824,6 +824,12 @@
       "nama": "Tafsir Ayat Kursi",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/uploads/2020/02/tafsir-ayat-kursi-syaikh-utsaimin.pdf"
+    },
+    {
+      "id": 138,
+      "nama": "Aqidatus Salaf Ashabul Hadits",
+      "nama_ar": "",
+      "link": "http://www.archive.org/download/waq80998/80998.pdf"
     }
   ]
 }
