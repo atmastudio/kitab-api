@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 41,
-  "updatedAt": "2025-11-25 14:06:52",
+  "total": 42,
+  "updatedAt": "2025-11-25 14:07:18",
   "data": [
     {
       "id": 1,
@@ -248,6 +248,12 @@
       "nama": "Syamail Muhammadiyah Tirmidzi",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/syamail-muhammadiyah-tirmidzi.pdf"
+    },
+    {
+      "id": 42,
+      "nama": "Hulal Adzahabiyyah",
+      "nama_ar": "",
+      "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/hulal-adzabiyah.pdf"
     }
   ]
 }
