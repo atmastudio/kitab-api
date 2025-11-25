@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 50,
-  "updatedAt": "2025-11-25 14:12:13",
+  "total": 51,
+  "updatedAt": "2025-11-25 14:12:29",
   "data": [
     {
       "id": 1,
@@ -302,6 +302,12 @@
       "nama": "Huququn Nabi",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/huququn-nabi.pdf"
+    },
+    {
+      "id": 51,
+      "nama": "Marhaban Ya Tholibal Ilmi",
+      "nama_ar": "",
+      "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/marhaban-ya-tholibil-ilmi.pdf"
     }
   ]
 }
