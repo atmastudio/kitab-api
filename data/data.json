@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 15,
-  "updatedAt": "2025-11-25 13:51:29",
+  "total": 16,
+  "updatedAt": "2025-11-25 13:51:57",
   "data": [
     {
       "id": 1,
@@ -92,6 +92,12 @@
       "nama": "Syarah Umdatul Ahkam",
       "nama_ar": "شَرْحُ عُمَدَةِ الْأَحْكَامِ",
       "link": "https://drive.google.com/file/d/1FlPM8J49IzJkoDD6RQczB9qdHh9TmUVK/view"
+    },
+    {
+      "id": 16,
+      "nama": "Al Ghoflah",
+      "nama_ar": "",
+      "link": "https://drive.google.com/file/d/1XAnwj40duDvicyRxXOJv1zzIlqRukkZM/view"
     }
   ]
 }
