@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 170,
-  "updatedAt": "2025-11-25 19:01:07",
+  "total": 171,
+  "updatedAt": "2025-11-25 19:01:31",
   "data": [
     {
       "id": 1,
@@ -1022,6 +1022,12 @@
       "nama": "Bahjatul Qulub wa Abror",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/bahjatul-qulub-wa-abror.pdf"
+    },
+    {
+      "id": 171,
+      "nama": "Ushul Fiqih Nadhom Waroqot",
+      "nama_ar": "",
+      "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/usul-fikih-waraqat-utsaimin.pdf"
     }
   ]
 }
