@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 135,
-  "updatedAt": "2025-11-25 18:18:43",
+  "total": 136,
+  "updatedAt": "2025-11-25 18:21:00",
   "data": [
     {
       "id": 1,
@@ -812,6 +812,12 @@
       "nama": "Majelis Durus Bulan Ramadhan Syaikh Abdul Qodir Al Junaid",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/uploads/2020/05/majelis-bulan-ramadhan-syaikh-abdul-qadir-al-junaid.pdf"
+    },
+    {
+      "id": 136,
+      "nama": "Badzlul Ma’un Fi Fadhlith Tha’un",
+      "nama_ar": "",
+      "link": "https://archive.org/download/badlul-maun-fii-fadlil-toun-ibnu-hajar/badlul-maun-fii-fadlil-toun-ibnu-hajar.pdf"
     }
   ]
 }
