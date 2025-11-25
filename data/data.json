@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 33,
-  "updatedAt": "2025-11-25 14:02:40",
+  "total": 34,
+  "updatedAt": "2025-11-25 14:03:03",
   "data": [
     {
       "id": 1,
@@ -200,6 +200,12 @@
       "nama": "Majmu Rosail Ilmiyyah",
       "nama_ar": "",
       "link": "https://drive.google.com/file/d/1KgqlGciN2ZpHhhiUam_0GSDi-HSEiU4v/view"
+    },
+    {
+      "id": 34,
+      "nama": "Targhib wa Tarhib Imam Mundzir",
+      "nama_ar": "",
+      "link": "https://drive.google.com/file/d/158dlscrmjtE7hHt6jpG3jvrxizg3Znpb/view"
     }
   ]
 }
