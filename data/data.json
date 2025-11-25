@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 10,
-  "updatedAt": "2025-11-25 13:47:27",
+  "total": 11,
+  "updatedAt": "2025-11-25 13:48:13",
   "data": [
     {
       "id": 1,
@@ -62,6 +62,12 @@
       "nama": "Majaalis Syahri Ramadhan Utsaimin",
       "nama_ar": "مَجَالِيسُ شَهْرِ رَمَضَانَ",
       "link": "https://drive.google.com/file/d/1SW1Dzn9GHKwXoKxy0wEEzGQx6_jhnq2n/view?usp=drivesdk"
+    },
+    {
+      "id": 11,
+      "nama": "Majaalis Syahri Ramadhan Fauzan",
+      "nama_ar": "مَجَالِيسُ شَهْرِ رَمَضَانَ",
+      "link": "https://drive.google.com/file/d/1fIJPTD9qkr6TUMzmbfzryiGo-euMSzWn/view?usp=drivesdk"
     }
   ]
 }
