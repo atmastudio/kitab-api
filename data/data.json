@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 7,
-  "updatedAt": "2025-11-25 13:43:28",
+  "total": 8,
+  "updatedAt": "2025-11-25 13:44:42",
   "data": [
     {
       "id": 1,
@@ -44,6 +44,12 @@
       "nama": "Al Irsyad Ila Shohih Al Itiqod",
       "nama_ar": "الْإِرْشَادُ إِلَى صَحِيحِ الْاعْتِقَادِ",
       "link": "https://drive.google.com/file/d/11EoQbXQ-KiKXvHCAUde8caIxQc0AU1r9/view?usp=drivesdk"
+    },
+    {
+      "id": 8,
+      "nama": "Showarif Anil Haq Anil Haq",
+      "nama_ar": "",
+      "link": "https://drive.google.com/file/d/1mX7Pxz421eqj7M0CIn1vTqvSJGoPyI88/view?usp=drivesdk"
     }
   ]
 }
