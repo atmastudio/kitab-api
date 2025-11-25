@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 30,
-  "updatedAt": "2025-11-25 14:01:22",
+  "total": 31,
+  "updatedAt": "2025-11-25 14:01:43",
   "data": [
     {
       "id": 1,
@@ -182,6 +182,12 @@
       "nama": "Mulakhos Fikih jilid 1",
       "nama_ar": "",
       "link": "https://drive.google.com/file/d/1kj0X4oL_dlJllZ7MfNCsMk2v12GYfRDT/view"
+    },
+    {
+      "id": 31,
+      "nama": "Mulakhos Fikih jilid 2",
+      "nama_ar": "",
+      "link": "https://drive.google.com/file/d/1AX2euJTelDnOGZzH_3KJmMC2QA_J8pTt/view"
     }
   ]
 }
