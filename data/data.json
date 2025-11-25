@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 32,
-  "updatedAt": "2025-11-25 14:02:17",
+  "total": 33,
+  "updatedAt": "2025-11-25 14:02:40",
   "data": [
     {
       "id": 1,
@@ -194,6 +194,12 @@
       "nama": "Khasiyatul Khudoriy ala Syarh Ibnu Aqil",
       "nama_ar": "",
       "link": "https://drive.google.com/file/d/1YtMyDdaJ9P2CNF_Ln3GwaLM4mg9oZiyK/view"
+    },
+    {
+      "id": 33,
+      "nama": "Majmu Rosail Ilmiyyah",
+      "nama_ar": "",
+      "link": "https://drive.google.com/file/d/1KgqlGciN2ZpHhhiUam_0GSDi-HSEiU4v/view"
     }
   ]
 }
