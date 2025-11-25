@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 31,
-  "updatedAt": "2025-11-25 14:01:43",
+  "total": 32,
+  "updatedAt": "2025-11-25 14:02:17",
   "data": [
     {
       "id": 1,
@@ -188,6 +188,12 @@
       "nama": "Mulakhos Fikih jilid 2",
       "nama_ar": "",
       "link": "https://drive.google.com/file/d/1AX2euJTelDnOGZzH_3KJmMC2QA_J8pTt/view"
+    },
+    {
+      "id": 32,
+      "nama": "Khasiyatul Khudoriy ala Syarh Ibnu Aqil",
+      "nama_ar": "",
+      "link": "https://drive.google.com/file/d/1YtMyDdaJ9P2CNF_Ln3GwaLM4mg9oZiyK/view"
     }
   ]
 }
