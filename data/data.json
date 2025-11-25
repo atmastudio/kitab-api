@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 140,
-  "updatedAt": "2025-11-25 18:24:12",
+  "total": 141,
+  "updatedAt": "2025-11-25 18:25:33",
   "data": [
     {
       "id": 1,
@@ -842,6 +842,12 @@
       "nama": "Syarah Usul Tsalatsah Syaikh Fauzan",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/uploads/2020/01/syarah-usul-tsalatsah-fauzan.pdf"
+    },
+    {
+      "id": 141,
+      "nama": "Qoulu Mufid Syarah Kitabu Tauhid 1",
+      "nama_ar": "",
+      "link": "https://archive.org/download/raj3elsada-qmkt1/qmkt1.pdf"
     }
   ]
 }
