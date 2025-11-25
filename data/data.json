@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 141,
-  "updatedAt": "2025-11-25 18:25:33",
+  "total": 142,
+  "updatedAt": "2025-11-25 18:25:47",
   "data": [
     {
       "id": 1,
@@ -848,6 +848,12 @@
       "nama": "Qoulu Mufid Syarah Kitabu Tauhid 1",
       "nama_ar": "",
       "link": "https://archive.org/download/raj3elsada-qmkt1/qmkt1.pdf"
+    },
+    {
+      "id": 142,
+      "nama": "Qoulu Mufid Syarah Kitabu Tauhid 2",
+      "nama_ar": "",
+      "link": "https://archive.org/download/raj3elsada-qmkt1/qmkt2.pdf"
     }
   ]
 }
