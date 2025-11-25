@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 26,
-  "updatedAt": "2025-11-25 13:58:44",
+  "total": 27,
+  "updatedAt": "2025-11-25 13:59:03",
   "data": [
     {
       "id": 1,
@@ -158,6 +158,12 @@
       "nama": "Qoulu Mufid jilid 1",
       "nama_ar": "",
       "link": "https://drive.google.com/file/d/1P1jgBYeCkpod5m_mSUjnMDhs8GU7dD8Q/view"
+    },
+    {
+      "id": 27,
+      "nama": "Qoulu Mufid Jilid 2",
+      "nama_ar": "",
+      "link": "https://drive.google.com/file/d/1_crLAVN2uNq9S4kKX0PjM1DUg2nKwgla/view"
     }
   ]
 }
