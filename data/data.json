@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 80,
-  "updatedAt": "2025-11-25 14:33:20",
+  "total": 81,
+  "updatedAt": "2025-11-25 14:33:36",
   "data": [
     {
       "id": 1,
@@ -482,6 +482,12 @@
       "nama": "Siyar Alam Nubala 6",
       "nama_ar": "",
       "link": "https://archive.org/download/DAH1985ARAR/%D8%B3%D9%8A%D8%B1%20%D8%A3%D8%B9%D9%84%D8%A7%D9%85%20%D8%A7%D9%84%D9%86%D8%A8%D9%84%D8%A7%D8%A1%20%285%29.pdf"
+    },
+    {
+      "id": 81,
+      "nama": "Siyar Alam Nubala 7",
+      "nama_ar": "",
+      "link": "https://archive.org/download/DAH1985ARAR/%D8%B3%D9%8A%D8%B1%20%D8%A3%D8%B9%D9%84%D8%A7%D9%85%20%D8%A7%D9%84%D9%86%D8%A8%D9%84%D8%A7%D8%A1%20%286%29.pdf"
     }
   ]
 }
