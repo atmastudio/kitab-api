@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 61,
-  "updatedAt": "2025-11-25 14:20:06",
+  "total": 62,
+  "updatedAt": "2025-11-25 14:20:38",
   "data": [
     {
       "id": 1,
@@ -368,6 +368,12 @@
       "nama": "Zaadul Ma’ad Ibnul Qoyyim jilid 3",
       "nama_ar": "",
       "link": "https://archive.org/download/etaoin/Zadul%20Maad%203.pdf"
+    },
+    {
+      "id": 62,
+      "nama": "Zaadul Ma’ad Ibnul Qoyyim jilid 4",
+      "nama_ar": "",
+      "link": "https://archive.org/download/etaoin/Zadul%20Maad%204.pdf"
     }
   ]
 }
