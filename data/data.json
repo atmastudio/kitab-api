@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 177,
-  "updatedAt": "2025-11-25 19:21:13",
+  "total": 178,
+  "updatedAt": "2025-11-25 19:21:25",
   "data": [
     {
       "id": 1,
@@ -1064,6 +1064,12 @@
       "nama": "Syarah Riyadhus Sholihin Syaikh Utsaimin 3",
       "nama_ar": "",
       "link": "https://drive.google.com/file/d/1ZWds23BtNTVrvFagjlcdnT78XYBs4Iu7/view"
+    },
+    {
+      "id": 178,
+      "nama": "Syarah Riyadhus Sholihin Syaikh Utsaimin 4",
+      "nama_ar": "",
+      "link": "https://drive.google.com/file/d/1zZhQz7yrg_FAbKbO0fVncd4qOdUKlYsa/view"
     }
   ]
 }
