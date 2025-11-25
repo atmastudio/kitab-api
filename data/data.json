@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 6,
-  "updatedAt": "2025-11-25 13:42:25",
+  "total": 7,
+  "updatedAt": "2025-11-25 13:43:28",
   "data": [
     {
       "id": 1,
@@ -38,6 +38,12 @@
       "nama": "Huququl Aulad ala Aba wa Ummahat",
       "nama_ar": "حُقُوْقُ الْأَوْلَادِ عَلَى الْآبَاءِ وَالْأُمَّهَاتِ",
       "link": "https://drive.google.com/file/d/145ljzxUgLjxlOO4TAKmPYvVX56PR5Pb4/view?usp=drivesdk"
+    },
+    {
+      "id": 7,
+      "nama": "Al Irsyad Ila Shohih Al Itiqod",
+      "nama_ar": "الْإِرْشَادُ إِلَى صَحِيحِ الْاعْتِقَادِ",
+      "link": "https://drive.google.com/file/d/11EoQbXQ-KiKXvHCAUde8caIxQc0AU1r9/view?usp=drivesdk"
     }
   ]
 }
