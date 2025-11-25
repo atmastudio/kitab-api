@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 144,
-  "updatedAt": "2025-11-25 18:26:36",
+  "total": 145,
+  "updatedAt": "2025-11-25 18:27:23",
   "data": [
     {
       "id": 1,
@@ -866,6 +866,12 @@
       "nama": "Matan Syarhus Sunnah Imam Al Barbahari",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/uploads/2019/11/matan-syarhus-sunnah-imam-al-barbahari.pdf"
+    },
+    {
+      "id": 145,
+      "nama": "Masail Jahiliyah Syarah Syaikh Fauzan",
+      "nama_ar": "",
+      "link": "https://archive.org/download/FP62724/62724.pdf"
     }
   ]
 }
