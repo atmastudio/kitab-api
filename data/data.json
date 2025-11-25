@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 166,
-  "updatedAt": "2025-11-25 18:59:30",
+  "total": 167,
+  "updatedAt": "2025-11-25 18:59:39",
   "data": [
     {
       "id": 1,
@@ -998,6 +998,12 @@
       "nama": "Manaqib As Syafi'i lil Baihaqi 1",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/manaqib-syafii-jlild-1.pdf"
+    },
+    {
+      "id": 167,
+      "nama": "Manaqib As Syafi'i lil Baihaqi 2",
+      "nama_ar": "",
+      "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/manaqib-syafii-jlild-2.pdf"
     }
   ]
 }
