@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 65,
-  "updatedAt": "2025-11-25 14:21:43",
+  "total": 66,
+  "updatedAt": "2025-11-25 14:26:39",
   "data": [
     {
       "id": 1,
@@ -392,6 +392,12 @@
       "nama": "Zaadul Ma’ad Ibnul Qoyyim jilid 7",
       "nama_ar": "",
       "link": "https://archive.org/download/etaoin/Zadul%20Maad%207.pdf"
+    },
+    {
+      "id": 66,
+      "nama": "Mustadrak ala Shahihain 1",
+      "nama_ar": "",
+      "link": "https://archive.org/download/moustadrak-risala/mstdrsala_1.pdf"
     }
   ]
 }
