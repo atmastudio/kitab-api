@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 121,
-  "updatedAt": "2025-11-25 17:49:16",
+  "total": 122,
+  "updatedAt": "2025-11-25 17:49:51",
   "data": [
     {
       "id": 1,
@@ -728,6 +728,12 @@
       "nama": "Subulus Salam 4",
       "nama_ar": "",
       "link": "https://archive.org/download/waq73677/04_73680.pdf"
+    },
+    {
+      "id": 122,
+      "nama": "Tafsir Kalimatu Tauhid Syaikh Fauzan",
+      "nama_ar": "",
+      "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/syarah-tafsir-kalimatu-tauhid-fauzan.pdf"
     }
   ]
 }
