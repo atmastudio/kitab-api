@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 131,
-  "updatedAt": "2025-11-25 18:14:26",
+  "total": 132,
+  "updatedAt": "2025-11-25 18:16:18",
   "data": [
     {
       "id": 1,
@@ -788,6 +788,12 @@
       "nama": "Tadzkiroh Ibnu Jauzi",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/tadzkiroh-ibnu-jauzi.pdf"
+    },
+    {
+      "id": 132,
+      "nama": "Taqrib Tadmuriyah Utsaimin",
+      "nama_ar": "",
+      "link": "https://archive.org/download/taqrib-tadmuriyah-utsaimin/Taqrib%20Tadmuriyah%20Utsaimin.pdf"
     }
   ]
 }
