@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 148,
-  "updatedAt": "2025-11-25 18:30:49",
+  "total": 149,
+  "updatedAt": "2025-11-25 18:36:05",
   "data": [
     {
       "id": 1,
@@ -890,6 +890,12 @@
       "nama": "Syarah Usul Iman Syaikh Utsaimin",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/uploads/2019/09/syarah-usul-iman-utsaimin.pdf"
+    },
+    {
+      "id": 149,
+      "nama": "Syarah Arbain Nawawi Syaikh Utsaimin",
+      "nama_ar": "",
+      "link": "https://archive.org/download/vdrka/vdrka.pdf"
     }
   ]
 }
