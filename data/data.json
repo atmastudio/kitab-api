@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 162,
-  "updatedAt": "2025-11-25 18:56:36",
+  "total": 163,
+  "updatedAt": "2025-11-25 18:57:02",
   "data": [
     {
       "id": 1,
@@ -974,6 +974,12 @@
       "nama": "Al Muwatho Imam Malik",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/pdf-muwatha-imam-malik.pdf"
+    },
+    {
+      "id": 163,
+      "nama": "Syarah Tsalasatul Usul Bin Baz",
+      "nama_ar": "",
+      "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/syarah-tsalasatul-usul-bin-baz.pdf"
     }
   ]
 }
