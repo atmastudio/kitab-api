@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 24,
-  "updatedAt": "2025-11-25 13:57:26",
+  "total": 25,
+  "updatedAt": "2025-11-25 13:58:14",
   "data": [
     {
       "id": 1,
@@ -146,6 +146,12 @@
       "nama": "Syarah Bulughul Maram Utsaimin Bab Sholat",
       "nama_ar": "",
       "link": "https://drive.google.com/file/d/1AqgyeqaIgn0u4o9kFLWtbByf4MMa_3Sl/view"
+    },
+    {
+      "id": 25,
+      "nama": "Matan Adabul Mufrod",
+      "nama_ar": "أَدَبِ المُفْرَدِ",
+      "link": "https://drive.google.com/file/d/18BtK12YT58jFfcRfEHtOAgVwZHaal8O6/view"
     }
   ]
 }
