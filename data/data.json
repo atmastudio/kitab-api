@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 12,
-  "updatedAt": "2025-11-25 13:49:31",
+  "total": 13,
+  "updatedAt": "2025-11-25 13:50:18",
   "data": [
     {
       "id": 1,
@@ -74,6 +74,12 @@
       "nama": "Tabyinul Ujab bi Ma Warada fi Syahri Rajab",
       "nama_ar": "تَبْيِينُ الْعَجَبِ بِمَا وَرَدَ فِي شَهْرِ رَجَب",
       "link": "https://drive.google.com/file/d/1qy7I32iQj1Fqzg8MKYvpydIcxuaxCtXR/view"
+    },
+    {
+      "id": 13,
+      "nama": "Syarah Kasyfu Syubhat Utsaimin",
+      "nama_ar": "شَرْحُ كَشْفِ الشُّبُهَاتِ",
+      "link": "https://drive.google.com/file/d/1i-hwJAhmR99nKDZ265-QpEUCtJwxg9ht/view"
     }
   ]
 }
