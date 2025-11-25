@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 138,
-  "updatedAt": "2025-11-25 18:22:36",
+  "total": 139,
+  "updatedAt": "2025-11-25 18:23:03",
   "data": [
     {
       "id": 1,
@@ -830,6 +830,12 @@
       "nama": "Aqidatus Salaf Ashabul Hadits",
       "nama_ar": "",
       "link": "http://www.archive.org/download/waq80998/80998.pdf"
+    },
+    {
+      "id": 139,
+      "nama": "Syarah Al Utsulu Tsalasah Utsaimin",
+      "nama_ar": "",
+      "link": "https://drive.google.com/file/d/1ABtKAbiygCU27jHUG0lpzWZ3J-kcL0gU/view"
     }
   ]
 }
