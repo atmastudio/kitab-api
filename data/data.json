@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 172,
-  "updatedAt": "2025-11-25 19:01:53",
+  "total": 173,
+  "updatedAt": "2025-11-25 19:02:17",
   "data": [
     {
       "id": 1,
@@ -1034,6 +1034,12 @@
       "nama": "Talhis Sifat Sholat Nabi",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/talhis-sifat-sholat-nabi-syaikh-albani.pdf"
+    },
+    {
+      "id": 173,
+      "nama": "Ushul Aqidah Ahlus Sunnah",
+      "nama_ar": "",
+      "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/usul-aqidah-ahlus-sunnah-fauzan.pdf"
     }
   ]
 }
