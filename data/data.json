@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 53,
-  "updatedAt": "2025-11-25 14:13:14",
+  "total": 54,
+  "updatedAt": "2025-11-25 14:13:38",
   "data": [
     {
       "id": 1,
@@ -320,6 +320,12 @@
       "nama": "Syarah Akidah Wasitiyah Syaikh Kholil Haros",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/syarah-akidah-wasitiyah-kholil-haros.pdf"
+    },
+    {
+      "id": 54,
+      "nama": "Ubudiyyah Ibnu Taimiyah",
+      "nama_ar": "",
+      "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/ubudiyyah-ibn-taimiyah.pdf"
     }
   ]
 }
