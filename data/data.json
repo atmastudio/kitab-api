@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 115,
-  "updatedAt": "2025-11-25 14:48:32",
+  "total": 116,
+  "updatedAt": "2025-11-25 14:54:38",
   "data": [
     {
       "id": 1,
@@ -692,6 +692,12 @@
       "nama": "Syarah Usulu Sunnah Imam Ahmad Syaikh Rabi",
       "nama_ar": "",
       "link": "https://jogjamuslim.com/wp-content/download-kitab-pdf/syarah-usul-sunnah-imam-ahmad-syaikh-rabi.pdf"
+    },
+    {
+      "id": 116,
+      "nama": "Tafsir Al Quran Taisir Karimi Rahman",
+      "nama_ar": "",
+      "link": "https://archive.org/download/ozkorallh_20181023_2048/100585.pdf"
     }
   ]
 }
