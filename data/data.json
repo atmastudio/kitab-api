@@ -1,7 +1,7 @@
 {
   "status": 200,
-  "total": 13,
-  "updatedAt": "2025-11-25 13:50:18",
+  "total": 14,
+  "updatedAt": "2025-11-25 13:50:57",
   "data": [
     {
       "id": 1,
@@ -80,6 +80,12 @@
       "nama": "Syarah Kasyfu Syubhat Utsaimin",
       "nama_ar": "شَرْحُ كَشْفِ الشُّبُهَاتِ",
       "link": "https://drive.google.com/file/d/1i-hwJAhmR99nKDZ265-QpEUCtJwxg9ht/view"
+    },
+    {
+      "id": 14,
+      "nama": "Nubdzatu fil Akidah Islamiyah",
+      "nama_ar": "",
+      "link": "https://drive.google.com/file/d/1vDQHuYxarIW4svREKl8h3fJqOIUWkmXO/view"
     }
   ]
 }
