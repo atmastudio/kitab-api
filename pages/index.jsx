@@ -8,7 +8,6 @@ export default function Home() {
   const [loading, setLoading] = useState(false);
   const [message, setMessage] = useState("");
 
-  // AUTH
   const [pwInput, setPwInput] = useState("");
   const [authorized, setAuthorized] = useState(false);
   const [pwError, setPwError] = useState("");
@@ -22,17 +21,14 @@ export default function Home() {
     });
     const j = await res.json();
 
-    if (j.ok) {
-      setAuthorized(true);
-    } else {
-      setPwError("Password salah!");
-    }
+    if (j.ok) setAuthorized(true);
+    else setPwError("Password salah!");
   }
 
   useEffect(() => {
     fetch("/api/add")
-      .then(r => r.json())
-      .then(j => setJsonData(j))
+      .then((r) => r.json())
+      .then((j) => setJsonData(j))
       .catch(() => setJsonData(null));
   }, []);
 
@@ -45,11 +41,7 @@ export default function Home() {
       const res = await fetch("/api/add", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          nama,
-          nama_ar: namaAr,
-          link
-        })
+        body: JSON.stringify({ nama, nama_ar: namaAr, link })
       });
 
       const result = await res.json();
@@ -59,9 +51,7 @@ export default function Home() {
         setNamaAr("");
         setLink("");
         setMessage("Berhasil ditambahkan!");
-      } else {
-        setMessage("Gagal: " + (result.message || JSON.stringify(result)));
-      }
+      } else setMessage("Gagal: " + (result.message || JSON.stringify(result)));
     } catch (err) {
       setMessage("Error: " + err.message);
     } finally {
@@ -69,66 +59,87 @@ export default function Home() {
     }
   }
 
-  // ========== LOGIN PAGE ==========
   if (!authorized) {
     return (
-      <div style={{ maxWidth: 400, margin: "100px auto", textAlign: "center" }}>
-        <h2>Login Admin</h2>
-
+      <div className="max-w-sm mx-auto mt-40 p-6 bg-white shadow-lg rounded-xl text-center">
+        <h2 className="text-2xl font-bold mb-4">Login Admin</h2>
         <form onSubmit={checkPassword}>
           <input
             type="password"
             placeholder="Masukkan password"
             value={pwInput}
             onChange={(e) => setPwInput(e.target.value)}
-            style={{ width: "100%", padding: "10px", marginTop: "10px" }}
+            className="w-full p-3 border rounded-lg"
           />
+
           <button
             type="submit"
-            style={{ marginTop: "10px", padding: "10px", width: "100%" }}
+            className="w-full mt-4 bg-blue-600 hover:bg-blue-700 text-white p-3 rounded-lg font-semibold"
           >
             Masuk
           </button>
         </form>
-
-        {pwError && <p style={{ color: "red" }}>{pwError}</p>}
+        {pwError && <p className="text-red-600 mt-2">{pwError}</p>}
       </div>
     );
   }
 
-  // ========== MAIN PAGE ==========
   return (
-    <div style={{ maxWidth: 900, margin: "20px auto", padding: "0 20px" }}>
-      <h1>Tambah Data ke JSON</h1>
-      <br> </br>
-      <form onSubmit={handleSubmit}>
-        <label>Nama</label>
-        <input
-          value={nama}
-          onChange={(e) => setNama(e.target.value)}
-          required
-        /><br></br>
+    <div className="max-w-3xl mx-auto p-6">
+      <h1 className="text-3xl font-bold mb-6">Tambah Data ke JSON</h1>
 
-        <label>Nama Arab</label>
-        <input value={namaAr} onChange={(e) => setNamaAr(e.target.value)} />
-        <br></br>
-        <label>Link</label>
-        <input
-          value={link}
-          onChange={(e) => setLink(e.target.value)}
-          required
-        />
-        <br></br>
+      <form
+        onSubmit={handleSubmit}
+        className="grid grid-cols-1 gap-4 bg-white p-6 shadow-lg rounded-xl"
+      >
+        <div>
+          <label className="font-semibold">Nama</label>
+          <input
+            className="w-full p-2 mt-1 border rounded-lg"
+            value={nama}
+            onChange={(e) => setNama(e.target.value)}
+            required
+          />
+        </div>
 
-        <button type="submit" disabled={loading}>
+        <div>
+          <label className="font-semibold">Nama Arab</label>
+          <input
+            className="w-full p-2 mt-1 border rounded-lg"
+            value={namaAr}
+            onChange={(e) => setNamaAr(e.target.value)}
+          />
+        </div>
+
+        <div>
+          <label className="font-semibold">Link</label>
+          <input
+            className="w-full p-2 mt-1 border rounded-lg"
+            value={link}
+            onChange={(e) => setLink(e.target.value)}
+            required
+          />
+        </div>
+
+        <button
+          type="submit"
+          disabled={loading}
+          className="bg-green-600 hover:bg-green-700 text-white p-3 rounded-lg font-semibold mt-2"
+        >
           {loading ? "Menyimpan..." : "Tambah"}
         </button>
+
+        {message && (
+          <p className="mt-2 font-semibold text-blue-600">{message}</p>
+        )}
       </form>
 
-      <h2>Preview JSON</h2>
-      <pre>{jsonData ? JSON.stringify(jsonData, null, 2) : "Memuat..."}</pre>
+      <h2 className="text-xl font-bold mt-10 mb-2">Preview JSON</h2>
+      <pre className="bg-gray-100 p-4 rounded-lg shadow-inner text-sm overflow-auto max-h-96">
+        {jsonData ? JSON.stringify(jsonData, null, 2) : "Memuat..."}
+      </pre>
 
-      <p style={{ marginTop: 30, opacity: 0.5 }}>Protected Mode Active</p>
+      <p className="mt-10 opacity-60 text-center">Protected Mode Active</p>
     </div>
   );
 }
